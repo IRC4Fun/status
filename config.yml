@@ -147,6 +147,10 @@ params:
       description: The main servers are located here.
       closed: true
     - name: Empty Category
+    - name: Email
+    - name: IRC Servers
+    - name: IRC Services
+    - name: Web
     - name: Uncategorized
       untitled: true
 
@@ -164,11 +168,11 @@ params:
       link: https://IRC4Fun.net/
     - name: IRC Servers
       description: The IRC servers for clients.
-      category: IRC
+      category: IRC Services
       link: https://irc4fun.net/servers/
     - name: IRC Services
       description: The IRC services (NickServ, ChanServ, MemoServ, etc) for the network.
-      category: IRC
+      category: IRC Servers
       link: https://irc4fun.net/servers/
     - name: Email Service
       description: The Email service for the IRC4Fun IRC network.
