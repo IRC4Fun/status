@@ -164,12 +164,20 @@ params:
       link: https://IRC4Fun.net/
     - name: IRC Servers
       description: The IRC servers for clients.
-      category: IRC Services
+      category: IRC Servers
       link: https://irc4fun.net/servers/
     - name: IRC Services
       description: The IRC services (NickServ, ChanServ, MemoServ, etc) for the network.
-      category: IRC Servers
+      category: IRC Services
       link: https://irc4fun.net/servers/
+    - name: TheLounge
+      description: Modern ircv3 web & app IRC client, hosted by IRC4Fun
+      category: IRC Services
+      link: https://ircplus.net/thelounge/
+    - name: ZNC
+      description: znc Bouncer, hosted by IRC4Fun
+      category: IRC Services
+      link: https://ircplus.net/znc/
     - name: Email Service
       description: The Email service for the IRC4Fun IRC network.
       category: Email
