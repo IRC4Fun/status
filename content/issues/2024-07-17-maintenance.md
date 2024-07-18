@@ -2,7 +2,7 @@
 title: Maintenance Announcement
 date: 2024-07-17 3:00:00
 informational: true
-pin: true
+pin: false
 section: issue
 ---
 
