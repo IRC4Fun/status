@@ -13,5 +13,5 @@ The following servers/services will be restarted:
  [x] coven.IRC4Fun.net
  [x] inspire.IRC4Fun.net
  [x] IRC Services _(ChanServ, NickServ, MemoServ, HostServ, OperServ)_
- [x] IRC+: TheLounge
- [x] IRC+: ZNC
+ [x] IRC+ TheLounge
+ [x] IRC+ ZNC
