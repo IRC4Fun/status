@@ -6,7 +6,7 @@ resolvedWhen: 2024-10-02 01:40:36
 # Possible severity levels: down, disrupted, notice
 severity: down
 affected:
-  - Services
+  - IRC Services
 section: issue
 ---
 
