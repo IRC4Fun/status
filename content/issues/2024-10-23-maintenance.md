@@ -11,6 +11,7 @@ We will be performing maintenance and updates to various IRC4Fun IRC servers.  D
 The following servers/services will be restarted:  
  - apocalypse.IRC4Fun.net  
  - coven.IRC4Fun.net  
+ - Discord Bridge & PyLink (IRCPlus)
  - inspire.IRC4Fun.net  
  - IRC+ TheLounge  
  - IRC+ ZNC  
