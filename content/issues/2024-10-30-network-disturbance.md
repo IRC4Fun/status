@@ -13,4 +13,4 @@ section: issue
 
 We are currently experiencing connection problems for _most_ IRC servers.  We are actively working to restore stability.  
 
-**Update** _Connection issues have been resolved.  Thank you for your patience! 
+**Update** _Connection issues have been resolved.  Thank you for your patience!_ 
