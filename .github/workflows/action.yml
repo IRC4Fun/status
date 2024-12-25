@@ -13,13 +13,13 @@ inputs:
   password:
     description: 'IRC server password'
     required: false
-  channel: #IRC4Fun,#Development
+  channel: '#IRC4Fun,#Development'
     description: 'IRC channel to message'
     required: true
   channel_key:
     description: 'IRC channel password'
     required: false
-  nickname: GitHub
+  nickname: 'GitHub'
     description: 'IRC user nickname'
     required: true
   sasl_password:
