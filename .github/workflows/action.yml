@@ -1,2 +1,2 @@
  name: Notify IRC Notifico
-  uses: openzfsonwindows/notify-irc@v1
+uses: openzfsonwindows/notify-irc@v1
