@@ -1,3 +1,7 @@
+- name: Notify IRC Notifico
+  uses: openzfsonwindows/notify-irc@v1
+            
+
 name: 'Notify IRC Notifico'
 description: 'Send a notification message to an IRC channel'
 author: 'Andrew Wason'
