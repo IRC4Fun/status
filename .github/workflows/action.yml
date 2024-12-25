@@ -1,0 +1,52 @@
+name: 'Notify IRC Notifico'
+description: 'Send a notification message to an IRC channel'
+author: 'Andrew Wason'
+inputs:
+  server:
+    description: 'IRC server'
+    default: 'irc.irc4fun.net'
+    required: true
+  port:
+    description: 'IRC server port'
+    default: 6697
+    required: true
+  password:
+    description: 'IRC server password'
+    required: false
+  channel: #IRC4Fun,#Development
+    description: 'IRC channel to message'
+    required: true
+  channel_key:
+    description: 'IRC channel password'
+    required: false
+  nickname: GitHub
+    description: 'IRC user nickname'
+    required: true
+  sasl_password:
+    description: 'IRC user SASL password'
+    required: false
+  eventpath:
+    description: 'path to EVENT_FILE'
+    required: true
+  notice:
+    description: 'Use NOTICE instead of PRIVMSG'
+    default: false
+    required: false
+  tls:
+    description: 'Connect to server using TLS'
+    default: true
+    required: false
+  verbose:
+    description: 'Enable verbose logging'
+    default: false
+    required: false
+  ansicolor:
+    description: 'Enable ansi color text'
+    default: false
+    required: false
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'message-square'
+  color: 'yellow'
