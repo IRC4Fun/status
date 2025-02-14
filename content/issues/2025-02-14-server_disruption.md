@@ -1,6 +1,6 @@
 ---
 title: Services Disruption / Instability
-date: 2025-02-15 11:00:00
+date: 2025-02-4 11:00:00
 #resolved: true
 #resolvedWhen: 2024-10-02 01:40:36
 # Possible severity levels: down, disrupted, notice
