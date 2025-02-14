@@ -1,6 +1,6 @@
 ---
 title: Server Disruption (apocalypse.IRC4Fun.net)
-date: 2025-02-14 11:00:00
+date: 2025-02-14 22:00:00
 #resolved: true
 #resolvedWhen: 2024-10-02 01:40:36
 # Possible severity levels: down, disrupted, notice
