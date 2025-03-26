@@ -1,14 +1,16 @@
 ---
 title: Server Disruption (coven.IRC4Fun.net)
 date: 2025-03-26 16:00:00
-resolved: false
-#resolvedWhen: 2025-02-15 00:07:15
+resolved: true
+resolvedWhen: 2025-03-26 16:42:15
 # Possible severity levels: down, disrupted, notice
 severity: down
 affected:
   - IRC Servers
 section: issue
 ---
+
+*Update* - Server is back online.
 
 *Update* - Provider is conducting Maintenance, which is the reason for the downtime.
 
