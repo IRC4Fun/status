@@ -1,7 +1,7 @@
 ---
 title: Server Disruption (plus.IRC4Fun.net)
 date: 2026-01-08 19:58:00
-resolved: false
+resolved: true
 resolvedWhen: 2026-01-08 21:34:19
 # Possible severity levels: down, disrupted, notice
 severity: down
