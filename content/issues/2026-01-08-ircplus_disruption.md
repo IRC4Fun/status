@@ -1,5 +1,5 @@
 ---
-title: Server Disruption (apocalypse.IRC4Fun.net)
+title: Server Disruption (plus.IRC4Fun.net)
 date: 2026-01-08 19:58:00
 resolved: false
 # resolvedWhen: 
